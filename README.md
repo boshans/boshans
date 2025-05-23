@@ -14,13 +14,13 @@ Appreciate you stopping by. I'm a Computer Science student at WGU and I work at 
 - **[Bill Tracker](https://github.com/boshans/billTracker)**  
   A custom-themed finance tracker I built — does balances, lets me track bills, and runs as an installer.
 
-- **Vacation Booking API**  
+- **[Vacation Booking API](https://github.com/boshans/vacation-booking-api)**  
   Java backend for a travel site — connects to an Angular frontend from school.
 
-- **MJ Logistics CRM**  
+- **[MJ Logistics CRM](https://github.com/boshans/mj-logistics-crm)**  
   Mapped out a CRM for a logistics company. Wrote up all the user stories, features, and hosting setup.
 
-- **Landon Hotel Project**  
+- **[Landon Hotel Project](https://github.com/boshans/landon-hotel-modernization)**  
   Took a hotel app and made it support French, different currencies, and time zones. Dockerized it too.
 
 ## 📬 Let’s Talk
